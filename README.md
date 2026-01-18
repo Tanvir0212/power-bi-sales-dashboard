@@ -1,3 +1,5 @@
+Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMzNkYjkzM2MtNDg2MC00OWI5LTg5ZjctN2MzY2MzOTk2ZWU4IiwidCI6IjIwYjliYTY2LWExMWQtNDkzOC1iNzk0LWYyZTg1YjEzODgxOCIsImMiOjEwfQ%3D%3D&pageName=624404a6dcb100201858
+
 Dashboard Insights
 1. Overall Business Performance:
 The business generated $24.91M in total revenue with $10.46M in profit, indicating a strong profit margin.
